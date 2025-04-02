@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqdtGvQorIg=",
+  "success": true,
+  "projectFilePath": "C:\\Github\\EFIstatistikProjesi\\EFIstatistikProjesi\\EFIstatistikProjesi\\EFIstatistikProjesi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Umut Ramazan\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

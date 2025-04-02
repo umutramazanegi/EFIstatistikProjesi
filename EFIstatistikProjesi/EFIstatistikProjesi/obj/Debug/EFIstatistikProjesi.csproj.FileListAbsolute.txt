@@ -1,0 +1,13 @@
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\bin\Debug\EFIstatistikProjesi.exe.config
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\bin\Debug\EFIstatistikProjesi.exe
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\bin\Debug\EFIstatistikProjesi.pdb
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\bin\Debug\EntityFramework.dll
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\obj\Debug\EFIstatistikProjesi.csproj.AssemblyReference.cache
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\obj\Debug\EFIstatistikProjesi.Form1.resources
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\obj\Debug\EFIstatistikProjesi.Properties.Resources.resources
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\obj\Debug\EFIstatistikProjesi.csproj.GenerateResource.cache
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\obj\Debug\EFIstatistikProjesi.csproj.CoreCompileInputs.cache
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\obj\Debug\EFIstati.7E966A98.Up2Date
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\obj\Debug\EFIstatistikProjesi.exe
+C:\Github\EFIstatistikProjesi\EFIstatistikProjesi\EFIstatistikProjesi\obj\Debug\EFIstatistikProjesi.pdb
